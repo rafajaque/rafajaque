@@ -86,11 +86,40 @@ Universidad Finis Terrae, Santiago · 2021 · Minor en Bioética.
 <details>
   <summary><strong>Certificaciones</strong></summary>
 
-- Seguridad de la Información ISO 27001 · AIEP / Telefónica · 2023.
-- Herramientas para la Innovación · AIEP · 2023.
-- Sustentabilidad en la Organización · AIEP · 2023.
-- Liderazgo e Innovación · Universidad Finis Terrae · 2019.
-
+- Develop Presentations and Slideshows · Google.
+- Fast-Track Data Analysis and Presentations · Google.
+- Foundations of Cybersecurity · Google.
+- Play It Safe: Manage Security Risks · Google.
+- Connect and Protect: Networks and Network Security · Google.
+- Visualize Data · Google.
+- The Importance of Integrity · Google.
+- Data Responsibility · Google.
+- Always Remember the Stakeholder · Google.
+- Ask Effective Questions · Google.
+- Make Data-Driven Decisions · Google.
+- Introducing Data Analytics and Analytical Thinking · Google.
+- Foundations: Data, Data, Everywhere · Google · 2026.
+- Foundations of Data Science · Google · 2026.
+- Foundations of Project Management · Google · 2026.
+- Fundamentos de Ciberseguridad · IBM.
+- Introducción a la Ciencia de Datos · IE University.
+- E-commerce for SMEs: Sell More Online · IE University.
+- Customer Centricity y Experiencia de Cliente: Estrategia y Transformación Digital para Líderes · IE University · 2026.
+- Storytelling en el Marketing Digital · The University of Chicago · 2026.
+- Python · Santander | Open Academy.
+- Excel · Santander | Open Academy · 2026.
+- Excel – de Intermedio a Avanzado · Santander | Open Academy · 2026.
+- Power BI · Santander | Open Academy · 2026.
+- Power BI Intermedio: Análisis y Modelado de Datos · Santander | Open Academy · 2026.
+- Publicidad Digital: Datos, IA y Legalidad · Santander | Open Academy.
+- Liderazgo · Santander | Open Academy.
+- Pensamiento Estratégico y Mentalidad Estratégica · Santander | Open Academy.
+- Comunicación Efectiva · Santander | Open Academy.
+- Mentalidad de Alto Rendimiento: Foco, Confianza y Éxito Profesional · Santander | Open Academy.
+- Bienestar y Estrés Laboral · Santander | Open Academy.
+- Burnout Laboral: Cómo Prevenir el Agotamiento y Recuperar tu Equilibrio · Santander | Open Academy.
+- Mindfulness & Worklife Balance · Santander | Open Academy.
+- Hablar en Público con Técnicas Teatrales · Escuela Universitaria de Artes de Madrid.
 </details>
 
 ---

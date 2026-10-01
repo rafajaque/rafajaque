@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="350" viewBox="0 0 1120 350" role="img" aria-labelledby="title desc">
+<title id="title">Rafael Jaque · Programador Analista</title>
+<desc id="desc">Android, datos y sistemas. San Fernando, Chile. Encabezado azul con una terminal de código decorativa.</desc>
+<defs>
+  <linearGradient id="bg"><stop stop-color="#EDF6FF"/><stop offset="1" stop-color="#D7EAFE"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#B6D4EE" stroke-width=".6" opacity=".3"/></pattern>
+  <clipPath id="frame"><rect width="1120" height="350" rx="22"/></clipPath>
+</defs>
+<style>
+  .cursor {animation: blink 1.6s steps(1) infinite}
+  @keyframes blink {50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce) {.cursor{animation:none}}
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1120" height="350" fill="url(#bg)"/>
+  <rect width="1120" height="350" fill="url(#grid)"/>
+  <circle cx="1095" cy="20" r="220" fill="none" stroke="#B6D4EE"/>
+  <circle cx="1095" cy="20" r="260" fill="none" stroke="#B6D4EE" opacity=".45"/>
+  <rect x="0" y="0" width="6" height="350" fill="#006D91"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="48" y="57" font-size="13" letter-spacing="3" fill="#006D91">SOFTWARE / DATOS / PERSONAS</text>
+    <text x="45" y="126" font-size="58" font-weight="700" letter-spacing="-2" fill="#102C4F">Rafael Jaque<tspan fill="#006D91">.</tspan></text>
+    <text x="48" y="169" font-size="25" fill="#365B7D">Programador Analista</text>
+    <text x="48" y="212" font-size="17" fill="#365B7D">Aplicaciones útiles. Sistemas que conectan.</text>
+    <g fill="none" stroke="#B6D4EE"><rect x="48" y="238" width="103" height="33" rx="16"/><rect x="162" y="238" width="87" height="33" rx="16"/><rect x="260" y="238" width="109" height="33" rx="16"/></g>
+    <g font-size="13" fill="#006D91" text-anchor="middle"><text x="99" y="260">ANDROID</text><text x="205" y="260">DATOS</text><text x="314" y="260">SISTEMAS</text></g>
+    <text x="48" y="316" font-size="13" fill="#365B7D">SAN FERNANDO, CHILE <tspan dx="14" fill="#006D91">↗ @rafajaque</tspan></text>
+  </g>
+  <rect x="663" y="62" width="409" height="239" rx="13" fill="#EDF6FF" stroke="#B6D4EE"/>
+  <path d="M663 100H1072" stroke="#B6D4EE"/>
+  <g fill="#006D91"><circle cx="684" cy="81" r="4"/><circle cx="700" cy="81" r="4" opacity=".6"/><circle cx="716" cy="81" r="4" opacity=".3"/></g>
+  <g font-family="Consolas,monospace" font-size="14">
+    <text x="738" y="86" fill="#365B7D">perfil.yaml</text>
+    <text x="687" y="133" fill="#006D91">rafael:</text>
+    <g fill="#365B7D"><text x="704" y="165">mobile: <tspan fill="#102C4F">[Java, Kotlin]</tspan></text>
+    <text x="704" y="192">data:   <tspan fill="#102C4F">[Python, SQL]</tspan></text>
+    <text x="704" y="219">backend: <tspan fill="#102C4F">Firebase</tspan></text>
+    <text x="704" y="258">focus: <tspan fill="#006D91">mejora continua</tspan></text></g>
+    <rect class="cursor" x="982" y="246" width="8" height="15" fill="#006D91"/>
+  </g>
+</g></svg>

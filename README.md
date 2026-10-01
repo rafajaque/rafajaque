@@ -14,8 +14,6 @@
 
 ## `01 / sobre mí`
 
-<img align="right" src="assets/retrato-rafael.png" width="215" alt="Retrato ilustrado de Rafael Jaque, basado en su fotografía, en tonos azules">
-
 Soy **Rafael Andrés Jaque Díaz**, Programador Analista de San Fernando, Chile. Desarrollo aplicaciones Android e integro bases de datos para construir soluciones útiles y mejorar sistemas.
 
 Mi experiencia combina **desarrollo de software, análisis de datos y soporte TI**, con una trayectoria previa en seguridad electrónica y salud. Esa combinación aporta una mirada técnica y centrada en las personas.

@@ -21,7 +21,7 @@ Mi experiencia combina **desarrollo de software, análisis de datos y soporte TI
 
 - **Desarrollo:** Android, Firebase y Google Maps API.
 - **Forma de trabajo:** análisis de requerimientos, prototipado, control de versiones y metodologías ágiles.
-- **Formación:** Técnico Programador Analista, egresado con Excelencia Académica en 2024; Ingeniería en Informática en curso, según mi CV.
+- **Formación:** Técnico Programador Analista, egresado con Excelencia Académica en 2024; Ingeniería en Informática en curso.
 - **Idiomas:** español e inglés avanzado.
 
 <br clear="all">
@@ -76,7 +76,7 @@ Mi experiencia combina **desarrollo de software, análisis de datos y soporte TI
 ## `04 / formación y aprendizaje`
 
 **Ingeniería en Informática · mención Desarrollo de Sistemas**  
-AIEP, San Fernando · En curso según mi CV.
+AIEP, San Fernando · En curso.
 
 **Técnico Programador Analista**  
 AIEP, San Fernando · 2024 · Excelencia Académica.

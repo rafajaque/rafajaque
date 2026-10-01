@@ -1,3 +1,4 @@
+<!-- Perfil profesional de @rafajaque · rafajaque/rafajaque -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">

@@ -63,7 +63,7 @@ Mi experiencia combina **desarrollo de software, análisis de datos y soporte TI
 | **Febrero 2024 – Marzo 2025** | Soporte TI · **Ilustre Municipalidad de Placilla** | Soporte tecnológico. |
 | **Desde 2023** | **Desarrollo freelance y proyectos personales** | Aplicaciones Android con bases de datos y Google Maps API; soluciones para clientes. |
 | **Enero 2020– Enero 2023** | Técnico CCTV · **Alianza e ISEG Chile** | Instalación, supervisión y mantenimiento de sistemas de seguridad electrónica. |
-| **Marzo 2018– Marzo 2021** | Coodinador administrativo · **Universidad Finis Terrae** | Gestión admistrativa y analisis de datos basicos. |
+| **Marzo 2018– Mayo 2021** | Coodinador administrativo · **Universidad Finis Terrae** | Gestión admistrativa y analisis de datos basicos. |
 <details>
   <summary><strong>Mi trayectoria en salud y gestión</strong></summary>
 

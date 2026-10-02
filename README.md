@@ -59,7 +59,7 @@ Mi experiencia combina **desarrollo de software, análisis de datos y soporte TI
 | Período | Rol y organización | Enfoque |
 | :--- | :--- | :--- |
 | **Enero - Julio 2026** | Analista de datos · **Minuto Verde** | Analista de selectores opticos. |
-| **Mayo - Enero 2025** | Analista de datos · **Ranco Cherries** | Análisis de datos. |
+| **Mayo 2025 - Enero 2026** | Analista de datos · **Ranco Cherries** | Análisis de datos. |
 | **Febrero 2024 – Marzo 2025** | Soporte TI · **Ilustre Municipalidad de Placilla** | Soporte tecnológico. |
 | **Desde 2023** | **Desarrollo freelance y proyectos personales** | Aplicaciones Android con bases de datos y Google Maps API; soluciones para clientes. |
 | **Enero 2020– Enero 2023** | Técnico CCTV · **Alianza e ISEG Chile** | Instalación, supervisión y mantenimiento de sistemas de seguridad electrónica. |
